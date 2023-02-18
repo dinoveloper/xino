@@ -1,2 +1,1 @@
-export { HttpCodes as HTTP} from "./http/HttpCodes";
-
+export { HttpCodes as HTTP} from "./http/HttpCodes.js";

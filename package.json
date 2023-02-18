@@ -1,0 +1,28 @@
+{
+  "name": "xino",
+  "version": "1.0.0",
+  "description": "Ultra Useful Utilities",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dinoveloper/xino.git"
+  },
+  "keywords": [
+    "util",
+    "utils",
+    "utility",
+    "utilities",
+    "useful",
+    "xino"
+  ],
+  "author": "dinoveloper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dinoveloper/xino"
+  },
+  "homepage": "https://github.com/dinoveloper/xino#readme"
+}
